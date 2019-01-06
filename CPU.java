@@ -49,7 +49,7 @@ public class CPU {
 	private boolean[] pc;
 
 	/**
-	 * STUDENT SHOULD NOT MODIFY THIS METHOD
+	 * 
 	 *
 	 * Constructor initializes all data members.
 	 *
